@@ -1,0 +1,19 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "CCDDA",
+    "name": "Cyrano's CDDA",
+    "authors": [ "Cyrano7" ],
+    "description": "CDDA but slightly tweaked to my liking.",
+    "category": "items",
+    "dependencies": [ "dda" ]
+  },
+  {
+    "type": "ITEM_BLACKLIST",
+    "items": [
+      "drink_strawberry_surprise",
+      "drink_boozeberry",
+      "drink_hobo"
+    ]
+  }
+]
