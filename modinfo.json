@@ -10,6 +10,7 @@
   },
   {
     "type": "ITEM_BLACKLIST",
+    "whitelist": false,
     "items": [
       "drink_strawberry_surprise",
       "drink_boozeberry",
